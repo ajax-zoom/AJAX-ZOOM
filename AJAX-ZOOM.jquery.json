@@ -1,0 +1,47 @@
+{
+	"name": "AJAX-ZOOM",
+	"version": "3.3.0",
+	"title": "AJAX-ZOOM - 2D, 360, 3D image zoom player",
+	"description": "AJAX-ZOOM is a multitalent image zoom viewer with extensive customization options. Works on mobile devices. Intuitive usage including mouse wheel and gesture support, fullscreen view, 360° object spin and multi-angle views (3D). Strong API for building corporate level application, several e-commerce integrations (e.g. Magento), fully customizeable design, continuous development and support. Next Ver. 4.0 features clickable hotspots with online editor.",
+	"keywords": [
+		"ui",
+		"image",
+		"effect",
+		"animation",
+		"zoom",
+		"media",
+		"spin",
+		"rotate",
+		"reel",
+		"3D",
+		"hotspots",
+		"gallery",
+		"slider",
+		"show",
+		"picture",
+		"fullscreen",
+		"iPad",
+		"iPhone",
+		"pinch",
+		"player",
+		"touch",
+		"swipe"
+	],
+	"author": {
+		"name":"Vadim Jacobi",
+		"url":"http://www.ajax-zoom.com"
+	},
+	"licenses": [
+		{
+			"type":"Free for non-commercial, Commercial",
+			"url":"http://www.ajax-zoom.com/index.php?cid=download#heading_9"
+		}
+	],
+	"homepage": "http://www.ajax-zoom.com",
+	"docs": "http://www.ajax-zoom.com/index.php?cid=docs",
+	"demo": "http://www.ajax-zoom.com/index.php?cid=examples",
+	"download": "http://www.ajax-zoom.com/index.php?cid=download",
+	"dependencies": {
+		"jquery":">=1.5"
+	}
+}
