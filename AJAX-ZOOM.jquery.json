@@ -28,13 +28,17 @@
 		"swipe"
 	],
 	"author": {
-		"name":"Vadim Jacobi",
-		"url":"http://www.ajax-zoom.com"
+		"name": "Vadim Jacobi",
+		"url": "http://www.ajax-zoom.com"
 	},
 	"licenses": [
 		{
-			"type":"Free for non-commercial, Commercial",
-			"url":"http://www.ajax-zoom.com/index.php?cid=download#heading_9"
+			"type": "Free",
+			"url": "http://www.ajax-zoom.com/index.php?cid=download#heading_4"
+		},
+		{
+			"type": "Commercial",
+			"url": "http://www.ajax-zoom.com/index.php?cid=download#heading_4"
 		}
 	],
 	"homepage": "http://www.ajax-zoom.com",
